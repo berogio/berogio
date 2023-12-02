@@ -7,7 +7,7 @@
 - 💼 Experience in developing web applications with Angular and Node.js.
 - 🌱 Constantly learning and always looking for new challenges.
 - 📫 You can reach me at [gberi2012@agruni.edu.ge](mailto:gberi2012@agruni.edu.ge).
-- LinkedIn: [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/giorgi-beridze-427902238/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/giorgi-beridze-427902238/)
 
 ## Projects
 
