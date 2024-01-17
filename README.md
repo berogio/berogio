@@ -11,7 +11,7 @@
 
 ## Projects
 
-- 🚀 You can find all my projects on [My Portfolio](Link to your portfolio).
+- 🚀 You can find all my projects on [My Portfolio](https://portfolio-spa-beige.vercel.app/home).
 
 ## Skills
 
@@ -32,5 +32,8 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=flat)
+![Nginx](https://img.shields.io/badge/-Nginx-009639?logo=nginx&logoColor=white&style=flat)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)
+
 
 Feel free to use or modify this template as needed!
