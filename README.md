@@ -16,9 +16,9 @@
 ## Skills
 
 - 💻 Languages: TypeScript, JavaScript.
-- 🅰️ Framework: Angular.
-- 🚀 Backend: Node.js, Express.js.
-- 🛠️ Frontend: Bootstrap, Tailwind CSS.
+- 🅰️ Framework: Angular, React,
+- 🚀 Backend: Node.js, Express.js, NestJS
+- 🛠️ Frontend: Bootstrap, Tailwind CSS, Angular Material
 - 🛠️ Tools: Git.
 
 
